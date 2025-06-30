@@ -33,7 +33,7 @@ The website is designed to:
 ## 📱 Pages & Features
 
 ### 1. Home Page (`index.html`)
-![Screenshot (430)](https://github.com/user-attachments/assets/cc3c2ecb-aab5-4001-876c-0c064b192dcf)
+![Screenshot (440)](https://github.com/user-attachments/assets/0f28ef83-dcae-4077-8285-1b1ce389d874)
 
 - Hero banner with school tagline
 - Quick access links to key sections
