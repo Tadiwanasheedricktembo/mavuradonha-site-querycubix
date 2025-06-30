@@ -237,8 +237,7 @@ This project is created for educational purposes. All rights reserved.
 ## 📞 Support
 
 For technical support or questions about the website:
-- Email: info@mavuradonha.edu.zw
-- Phone: +263 123 456 789
+- Email: querycubixsoftworks@gmail.com
 
 ## 🎓 About Mavuradonha High School
 
