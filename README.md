@@ -33,6 +33,8 @@ The website is designed to:
 ## 📱 Pages & Features
 
 ### 1. Home Page (`index.html`)
+![Screenshot (430)](https://github.com/user-attachments/assets/cc3c2ecb-aab5-4001-876c-0c064b192dcf)
+
 - Hero banner with school tagline
 - Quick access links to key sections
 - Latest news and announcements
@@ -40,6 +42,8 @@ The website is designed to:
 - School statistics
 
 ### 2. About Us (`about.html`)
+![Screenshot (432)](https://github.com/user-attachments/assets/806112aa-95f2-4d53-9e0b-e99f66cea90a)
+
 - Mission and vision statements
 - School history and core values
 - Leadership team profiles
@@ -47,12 +51,20 @@ The website is designed to:
 
 ### 3. Academic Programs (`programs.html`)
 - Form 1-2 (Lower Secondary)
+- ![Screenshot (433)](https://github.com/user-attachments/assets/254a9264-4350-4430-a77d-8c0d8bcd0fac)
+
 - Form 3-4 (Upper Secondary) - Science, Arts, Commercial streams
+- ![Screenshot (434)](https://github.com/user-attachments/assets/c9d72392-1d21-48b5-a335-96bc98a7e427)
+
 - Form 5-6 (Advanced Level) - Sciences, Arts, Commercial
+- ![Screenshot (435)](https://github.com/user-attachments/assets/215b828d-3c90-4443-8683-d85227ecbb0c)
+
 - Search and filter functionality
 - Program benefits and features
 
 ### 4. Admissions (`admissions.html`)
+![Screenshot (436)](https://github.com/user-attachments/assets/4187376a-2b20-41dd-abc0-a7a422f9e8b2)
+
 - Step-by-step application process
 - Admission requirements
 - Application deadlines
@@ -60,6 +72,8 @@ The website is designed to:
 - Online application option
 
 ### 5. Student Life (`student-life.html`)
+![Screenshot (437)](https://github.com/user-attachments/assets/2f20092a-e089-4159-befd-18065e073212)
+
 - School life overview
 - Student organizations and clubs
 - Sports and athletics
@@ -68,16 +82,16 @@ The website is designed to:
 
 ### 6. Contact Us (`contact.html`)
 - Contact information
+- ![Screenshot (438)](https://github.com/user-attachments/assets/5bda8a8f-8fad-4504-95d2-1283a8c3f6f4)
+
 - Contact form
 - Department contacts
 - School map and directions
 - FAQ section
 
-### 7. News & Events (`news.html`)
-- Featured news articles
-- News categories and filtering
-- Upcoming events timeline
-- Newsletter signup
+### 7. Developer (`developer.html`)
+- ![Screenshot (439)](https://github.com/user-attachments/assets/b52d71ab-5dfc-4aa4-a60c-3a24b068689e)
+
 
 ## 🛠️ Technical Stack
 
