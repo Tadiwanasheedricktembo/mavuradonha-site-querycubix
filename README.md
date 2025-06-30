@@ -94,27 +94,6 @@ The website is designed to:
 - **Accessibility**: ARIA labels and keyboard navigation
 - **Performance**: Optimized images and efficient CSS
 - **Cross-browser Compatibility**: Works on all modern browsers
-
-## 📁 File Structure
-
-```
-WE/
-├── index.html              # Home page
-├── about.html              # About Us page
-├── programs.html           # Academic Programs page
-├── admissions.html         # Admissions page
-├── student-life.html       # Student Life page
-├── contact.html            # Contact Us page
-├── news.html               # News & Events page
-├── css/
-│   └── style.css           # Main stylesheet
-├── js/
-│   └── script.js           # JavaScript functionality
-├── images/                 # Image assets (placeholder)
-├── forms/                  # Application forms
-└── README.md               # Project documentation
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
